@@ -1,4 +1,4 @@
 # VIB
-MATLAB
+R
 
-Let's do some science 
+Useful functions and workflows to perform bioinformatics-related tasks.
