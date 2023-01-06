@@ -1,4 +1,3 @@
-# VIB
-R
+# R
 
 Useful functions and workflows to perform bioinformatics-related tasks.
